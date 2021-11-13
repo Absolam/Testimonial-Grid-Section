@@ -132,7 +132,7 @@ h2 {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: 28rem 28rem;
-    margin: 120px auto;
+    margin: 60px auto;
   }
 
   .sub-container {
